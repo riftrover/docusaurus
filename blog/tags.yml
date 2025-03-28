@@ -1,0 +1,24 @@
+news:
+   label: News
+   permalink: /news
+   description: News tag description
+
+rifticket:
+   label: RifTicket
+   permalink: /rifticket
+   description: RifTicket
+
+adblock:
+   label: AdBlock
+   permalink: /adblock
+   description: Hello tag description
+
+pin:
+   label: Pin
+   permalink: /pin
+   description: Docusaurus tag description
+
+jumps:
+   label: Jumps
+   permalink: /jumps
+   description: Hola tag description
