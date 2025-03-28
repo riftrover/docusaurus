@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Adblock",
-    Png: require("@site/static/img/adblock.png").default,
+    Svg: require("@site/static/img/adblock.svg").default,
     description: (
       <>
         Discordサーバー招待URLを自動で削除します！ <br />
