@@ -27,8 +27,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl:
-            "https://github.com/RiftRover/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/riftrover/docusaurus/edit/main/docs/",
         },
         blog: {
           showReadingTime: false,
