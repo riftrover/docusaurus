@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🤖｜RifTicket
+# 🤖 RifTicket
 
 ## 名称
 

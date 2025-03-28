@@ -31,18 +31,15 @@ const config: Config = {
             "https://github.com/RiftRover/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           feedOptions: {
             type: ["rss", "atom"],
             xslt: true,
           },
-          editUrl:
-            "https://github.com/RiftRover/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
         },
-
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -55,7 +52,7 @@ const config: Config = {
     navbar: {
       title: "RiftRover",
       logo: {
-        alt: "My Site Logo",
+        alt: "Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -66,11 +63,6 @@ const config: Config = {
           label: "Guide",
         },
         { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/RiftRover/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
       ],
     },
     footer: {
@@ -120,6 +112,16 @@ const config: Config = {
     },
     prism: {
       theme: prismThemes.github,
+    },
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+    blog: {
+      sidebar: {
+        groupByYear: false,
+      },
     },
   } satisfies Preset.ThemeConfig,
 };

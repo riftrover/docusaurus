@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🤖｜AdBlock
+# 🤖 AdBlock
 
 ## 名称
 
