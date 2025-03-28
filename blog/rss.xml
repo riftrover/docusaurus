@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>RiftRover Blog</title>
+        <link>https://riftrover.github.io/docusaurus/blog</link>
+        <description>RiftRover Blog</description>
+        <lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[サイト公開のお知らせ]]></title>
+            <link>https://riftrover.github.io/docusaurus/blog/1</link>
+            <guid>https://riftrover.github.io/docusaurus/blog/1</guid>
+            <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より、RiftRoverが提供するBOTをご利用いただき誠に有難うございます。]]></description>
+            <content:encoded><![CDATA[<p>日頃より、<strong>RiftRover</strong>が提供するBOTをご利用いただき誠に有難うございます。</p>
+<p>このたび、2025年3月29日より本サイトを公開いたしました。</p>
+<p>本サイトでは、RiftRoverが提供するBOTの<a href="https://riftrover.github.io/docusaurus/docs/intro">ご利用方法</a>、<a href="https://riftrover.github.io/docusaurus/terms-of-use">利用規約</a>、<a href="https://riftrover.github.io/docusaurus/privacy-policy">プライバシーポリシー</a>をご確認いただけます。</p>
+<p>また、BOTのアップデート情報などについても、ブログを通じて随時お知らせいたします。</p>
+<p>今後ともRiftRoverをよろしくお願い申し上げます。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

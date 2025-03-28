@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://riftrover.github.io/docusaurus/blog</id>
+    <title>RiftRover Blog</title>
+    <updated>2025-03-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://riftrover.github.io/docusaurus/blog"/>
+    <subtitle>RiftRover Blog</subtitle>
+    <icon>https://riftrover.github.io/docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[サイト公開のお知らせ]]></title>
+        <id>https://riftrover.github.io/docusaurus/blog/1</id>
+        <link href="https://riftrover.github.io/docusaurus/blog/1"/>
+        <updated>2025-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日頃より、RiftRoverが提供するBOTをご利用いただき誠に有難うございます。]]></summary>
+        <content type="html"><![CDATA[<p>日頃より、<strong>RiftRover</strong>が提供するBOTをご利用いただき誠に有難うございます。</p>
+<p>このたび、2025年3月29日より本サイトを公開いたしました。</p>
+<p>本サイトでは、RiftRoverが提供するBOTの<a href="https://riftrover.github.io/docusaurus/docs/intro">ご利用方法</a>、<a href="https://riftrover.github.io/docusaurus/terms-of-use">利用規約</a>、<a href="https://riftrover.github.io/docusaurus/privacy-policy">プライバシーポリシー</a>をご確認いただけます。</p>
+<p>また、BOTのアップデート情報などについても、ブログを通じて随時お知らせいたします。</p>
+<p>今後ともRiftRoverをよろしくお願い申し上げます。</p>]]></content>
+        <author>
+            <name>鈴也 蓮</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+    </entry>
+</feed>
