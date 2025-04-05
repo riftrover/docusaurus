@@ -8,50 +8,34 @@ type FeatureItem = {
   Svg?: React.ComponentType<React.ComponentProps<"svg">>;
   Png?: string | null;
   description: ReactNode;
+  inviteURL: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: "RifTicket",
     Svg: require("@site/static/img/rifticket.svg").default,
-    description: (
-      <>
-        チケット機能をサーバーに導入します！
-        <br />
-        <a href="/docusaurus/docs/RifTicket" rel="noopener noreferrer">
-          もっと詳しく
-        </a>
-      </>
-    ),
+    description: <>チケット機能をサーバーに導入します！</>,
+    inviteURL:
+      "https://discord.com/oauth2/authorize?client_id=1188889219620413542",
   },
   {
     title: "Adblock",
     Svg: require("@site/static/img/adblock.svg").default,
-    description: (
-      <>
-        Discordサーバー招待URLを自動で削除します！ <br />
-        <a href="/docusaurus/docs/AdBlock" rel="noopener noreferrer">
-          もっと詳しく
-        </a>
-      </>
-    ),
+    description: <>Discordサーバー招待URLを自動で削除します！</>,
+    inviteURL:
+      "https://discord.com/oauth2/authorize?client_id=1188889219620413542",
   },
   {
     title: "Pin",
     Png: require("@site/static/img/pin.png").default,
-    description: (
-      <>
-        特定のメッセージを常にチャンネルの下に固定します！
-        <br />
-        <a href="/docusaurus/docs/Pin" rel="noopener noreferrer">
-          もっと詳しく
-        </a>
-      </>
-    ),
+    description: <>特定のメッセージを常にチャンネルの下に固定します！</>,
+    inviteURL:
+      "https://discord.com/oauth2/authorize?client_id=1299604436577943572",
   },
 ];
 
-function Feature({ title, Svg, Png, description }: FeatureItem) {
+function Feature({ title, Svg, Png, description, inviteURL }: FeatureItem) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
@@ -61,6 +45,14 @@ function Feature({ title, Svg, Png, description }: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+        <a
+          href={inviteURL}
+          className={styles.inviteButton}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          BOTをサーバーに招待する
+        </a>
       </div>
     </div>
   );
