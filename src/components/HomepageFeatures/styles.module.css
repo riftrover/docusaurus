@@ -1,18 +1,38 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 2rem 0rem;
   width: 100%;
+  overflow: auto;
+  flex-wrap: wrap;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-}
-
+.featureSvg,
 .featurePng {
   height: 200px;
   width: 200px;
   border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.inviteButton {
+  background-color: #333;
+  border: solid 2px #1ecf5c;
+  color: #fff;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none !important;
+  font-size: 1em;
+  box-shadow: 0 5px 0 #60ed19;
+  display: inline-block;
+  transition: 0.3s;
+  user-select: none;
+  -webkit-user-select: none;
+  margin-bottom: 1rem;
+}
+
+.inviteButton:hover {
+  color: #1ecf5c;
+  transform: translateY(5px);
+  box-shadow: 0 0 0 #1ecf5c;
 }
