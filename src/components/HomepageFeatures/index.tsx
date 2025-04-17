@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: "Pin",
     Png: require("@site/static/img/pin.png").default,
-    description: <>特定のメッセージを常にチャンネルの下に固定します！</>,
+    description: <>メッセージを固定します！</>,
     inviteURL:
       "https://discord.com/oauth2/authorize?client_id=1299604436577943572",
   },
