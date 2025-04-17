@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-slug: よくある質問
+slug: faq
 ---
 
 # よくある質問
