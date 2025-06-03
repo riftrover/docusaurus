@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # 👋 Hi
 
-近日中にRiftRoverが提供しているBOTの利用方法を掲載するよ！
+ドキュメントの作成ができる方は Disdcord で教えてください...
