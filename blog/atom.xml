@@ -2,19 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://riftrover.github.io/docusaurus/blog</id>
     <title>RiftRover Blog</title>
-    <updated>2025-04-17T00:00:00.000Z</updated>
+    <updated>2025-06-04T02:45:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://riftrover.github.io/docusaurus/blog"/>
     <subtitle>RiftRover Blog</subtitle>
     <icon>https://riftrover.github.io/docusaurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[RifTicket Feedback Members 募集について]]></title>
+        <id>https://riftrover.github.io/docusaurus/blog/4</id>
+        <link href="https://riftrover.github.io/docusaurus/blog/4"/>
+        <updated>2025-06-04T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[現在、 @RifTicket#0557 の機能が複雑になってきているため、整理を進めようと考えています。]]></summary>
+        <content type="html"><![CDATA[<p>現在、 @RifTicket#0557 の機能が複雑になってきているため、整理を進めようと考えています。</p>
+<p>それに伴い、各機能に関するフィードバックをお願いできるユーザーを募集します。（チャンネル＆ロールからロールを取得してください。）</p>
+<p>基本的には、開発者から「このような機能/仕様にしようと思っていますが、どう思いますか？」といった形で質問をお送りしますので、それに対してご意見・ご感想をお寄せいただければOKです。</p>
+<p>積極的にご協力いただける方は、ぜひご参加ください！</p>]]></content>
+        <author>
+            <name>鈴也 蓮</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ディス速」導入について]]></title>
+        <id>https://riftrover.github.io/docusaurus/blog/3</id>
+        <link href="https://riftrover.github.io/docusaurus/blog/3"/>
+        <updated>2025-06-04T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Discord掲示板「ディス速」のリニューアルに伴い、RiftRoverに導入することとなりました。]]></summary>
+        <content type="html"><![CDATA[<p>Discord掲示板「<a href="https://dissoku.net/ja" target="_blank" rel="noopener noreferrer">ディス速</a>」のリニューアルに伴い、RiftRoverに導入することとなりました。</p>
+<p>今後、随時Discord BOTの掲載も行っていく予定ですので、ぜひレビューを書いていただけると嬉しいです。</p>
+<p>サポートサーバー：<a href="https://dissoku.net/ja/server/1168221532858880042" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/server/1168221532858880042</a><br>
+<!-- -->RifTicket：<a href="https://dissoku.net/ja/bot/1188889219620413542" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1188889219620413542</a><br>
+<!-- -->AdBlock：<a href="https://dissoku.net/ja/bot/1203392567115382897" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1203392567115382897</a><br>
+<!-- -->Pin：<a href="https://dissoku.net/ja/bot/1299604436577943572" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1299604436577943572</a></p>]]></content>
+        <author>
+            <name>鈴也 蓮</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NCbot様との業務提携についてのお知らせ]]></title>
-        <id>https://riftrover.github.io/docusaurus/blog/NCbot様との業務提携についてのお知らせ</id>
-        <link href="https://riftrover.github.io/docusaurus/blog/NCbot様との業務提携についてのお知らせ"/>
+        <id>https://riftrover.github.io/docusaurus/blog/2</id>
+        <link href="https://riftrover.github.io/docusaurus/blog/2"/>
         <updated>2025-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[平素より格別のご高配を賜り、誠にありがとうございます。]]></summary>
         <content type="html"><![CDATA[<p>平素より格別のご高配を賜り、誠にありがとうございます。</p>
-<p>当社は、このたびNCbot様との間で業務提携契約を締結いたしましたことをご報告いたします。</p>
+<p>当社は、このたびNCbot開発グループ様との間で業務提携契約を締結いたしましたことをご報告いたします。</p>
 <p>本提携を通じて、双方の技術的な強みを活かし、さらなるサービス向上と技術革新を目指してまいります。</p>
 <p>新たなパートナーシップのもと、より一層の価値提供に努めてまいりますので、今後とも変わらぬご支援を賜りますよう、よろしくお願い申し上げます。</p>]]></content>
         <author>
@@ -24,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[サイト公開のお知らせ]]></title>
-        <id>https://riftrover.github.io/docusaurus/blog/サイト公開のお知らせ</id>
-        <link href="https://riftrover.github.io/docusaurus/blog/サイト公開のお知らせ"/>
+        <id>https://riftrover.github.io/docusaurus/blog/1</id>
+        <link href="https://riftrover.github.io/docusaurus/blog/1"/>
         <updated>2025-03-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[日頃より、RiftRoverが提供するBOTをご利用いただき誠に有難うございます。]]></summary>
         <content type="html"><![CDATA[<p>日頃より、<strong>RiftRover</strong>が提供するBOTをご利用いただき誠に有難うございます。</p>

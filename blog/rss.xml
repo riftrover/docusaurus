@@ -4,25 +4,49 @@
         <title>RiftRover Blog</title>
         <link>https://riftrover.github.io/docusaurus/blog</link>
         <description>RiftRover Blog</description>
-        <lastBuildDate>Thu, 17 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 02:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <item>
+            <title><![CDATA[RifTicket Feedback Members 募集について]]></title>
+            <link>https://riftrover.github.io/docusaurus/blog/4</link>
+            <guid>https://riftrover.github.io/docusaurus/blog/4</guid>
+            <pubDate>Wed, 04 Jun 2025 02:45:00 GMT</pubDate>
+            <description><![CDATA[現在、 @RifTicket#0557 の機能が複雑になってきているため、整理を進めようと考えています。]]></description>
+            <content:encoded><![CDATA[<p>現在、 @RifTicket#0557 の機能が複雑になってきているため、整理を進めようと考えています。</p>
+<p>それに伴い、各機能に関するフィードバックをお願いできるユーザーを募集します。（チャンネル＆ロールからロールを取得してください。）</p>
+<p>基本的には、開発者から「このような機能/仕様にしようと思っていますが、どう思いますか？」といった形で質問をお送りしますので、それに対してご意見・ご感想をお寄せいただければOKです。</p>
+<p>積極的にご協力いただける方は、ぜひご参加ください！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[「ディス速」導入について]]></title>
+            <link>https://riftrover.github.io/docusaurus/blog/3</link>
+            <guid>https://riftrover.github.io/docusaurus/blog/3</guid>
+            <pubDate>Wed, 04 Jun 2025 02:42:00 GMT</pubDate>
+            <description><![CDATA[Discord掲示板「ディス速」のリニューアルに伴い、RiftRoverに導入することとなりました。]]></description>
+            <content:encoded><![CDATA[<p>Discord掲示板「<a href="https://dissoku.net/ja" target="_blank" rel="noopener noreferrer">ディス速</a>」のリニューアルに伴い、RiftRoverに導入することとなりました。</p>
+<p>今後、随時Discord BOTの掲載も行っていく予定ですので、ぜひレビューを書いていただけると嬉しいです。</p>
+<p>サポートサーバー：<a href="https://dissoku.net/ja/server/1168221532858880042" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/server/1168221532858880042</a><br>
+<!-- -->RifTicket：<a href="https://dissoku.net/ja/bot/1188889219620413542" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1188889219620413542</a><br>
+<!-- -->AdBlock：<a href="https://dissoku.net/ja/bot/1203392567115382897" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1203392567115382897</a><br>
+<!-- -->Pin：<a href="https://dissoku.net/ja/bot/1299604436577943572" target="_blank" rel="noopener noreferrer">https://dissoku.net/ja/bot/1299604436577943572</a></p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NCbot様との業務提携についてのお知らせ]]></title>
-            <link>https://riftrover.github.io/docusaurus/blog/NCbot様との業務提携についてのお知らせ</link>
-            <guid>https://riftrover.github.io/docusaurus/blog/NCbot様との業務提携についてのお知らせ</guid>
+            <link>https://riftrover.github.io/docusaurus/blog/2</link>
+            <guid>https://riftrover.github.io/docusaurus/blog/2</guid>
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[平素より格別のご高配を賜り、誠にありがとうございます。]]></description>
             <content:encoded><![CDATA[<p>平素より格別のご高配を賜り、誠にありがとうございます。</p>
-<p>当社は、このたびNCbot様との間で業務提携契約を締結いたしましたことをご報告いたします。</p>
+<p>当社は、このたびNCbot開発グループ様との間で業務提携契約を締結いたしましたことをご報告いたします。</p>
 <p>本提携を通じて、双方の技術的な強みを活かし、さらなるサービス向上と技術革新を目指してまいります。</p>
 <p>新たなパートナーシップのもと、より一層の価値提供に努めてまいりますので、今後とも変わらぬご支援を賜りますよう、よろしくお願い申し上げます。</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[サイト公開のお知らせ]]></title>
-            <link>https://riftrover.github.io/docusaurus/blog/サイト公開のお知らせ</link>
-            <guid>https://riftrover.github.io/docusaurus/blog/サイト公開のお知らせ</guid>
+            <link>https://riftrover.github.io/docusaurus/blog/1</link>
+            <guid>https://riftrover.github.io/docusaurus/blog/1</guid>
             <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[日頃より、RiftRoverが提供するBOTをご利用いただき誠に有難うございます。]]></description>
             <content:encoded><![CDATA[<p>日頃より、<strong>RiftRover</strong>が提供するBOTをご利用いただき誠に有難うございます。</p>
