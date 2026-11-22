@@ -27,10 +27,12 @@
             <description><![CDATA[Discord掲示板「ディス速」のリニューアルに伴い、RiftRoverに導入することとなりました。]]></description>
             <content:encoded><![CDATA[<p>Discord掲示板「<a href="https://dissoku.net/ja" target="_blank" rel="noopener noreferrer" class="">ディス速</a>」のリニューアルに伴い、RiftRoverに導入することとなりました。</p>
 <p>今後、随時Discord BOTの掲載も行っていく予定ですので、ぜひレビューを書いていただけると嬉しいです。</p>
-<p>サポートサーバー：<a href="https://dissoku.net/ja/server/1168221532858880042" target="_blank" rel="noopener noreferrer" class="">https://dissoku.net/ja/server/1168221532858880042</a><br>
-<!-- -->RifTicket：<a href="https://dissoku.net/ja/bot/1188889219620413542" target="_blank" rel="noopener noreferrer" class="">https://dissoku.net/ja/bot/1188889219620413542</a><br>
-<!-- -->AdBlock：<a href="https://dissoku.net/ja/bot/1203392567115382897" target="_blank" rel="noopener noreferrer" class="">https://dissoku.net/ja/bot/1203392567115382897</a><br>
-<!-- -->Pin：<a href="https://dissoku.net/ja/bot/1299604436577943572" target="_blank" rel="noopener noreferrer" class="">https://dissoku.net/ja/bot/1299604436577943572</a></p>]]></content:encoded>
+<ul>
+<li class=""><a href="https://dissoku.net/ja/server/1168221532858880042" target="_blank" rel="noopener noreferrer" class="">サポートサーバー</a></li>
+<li class=""><a href="https://dissoku.net/ja/bot/1188889219620413542" target="_blank" rel="noopener noreferrer" class="">RifTicket</a></li>
+<li class=""><a href="https://dissoku.net/ja/bot/1203392567115382897" target="_blank" rel="noopener noreferrer" class="">AdsHelper</a></li>
+<li class=""><a href="https://dissoku.net/ja/bot/1299604436577943572" target="_blank" rel="noopener noreferrer" class="">Pin</a></li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCbot様との業務提携についてのお知らせ]]></title>
