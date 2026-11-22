@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" width="1254" height="1254">
+<title>吹き出しをかたどった白いピン</title>
+<defs><linearGradient id="bg" x1="15%" y1="100%" x2="85%" y2="0%"><stop stop-color="#2929cf"/><stop offset=".46" stop-color="#474af8"/><stop offset="1" stop-color="#7979fa"/></linearGradient></defs>
+<rect width="1254" height="1254" fill="url(#bg)"/>
+<path fill="#fdfdfd" fill-rule="evenodd" d="M619 338 C559 271 565 220 629 215 C750 204 946 330 988 422 C1016 484 980 508 915 502 L803 677 C851 737 867 802 839 846 C810 890 717 858 610 800 C554 869 435 988 401 1019 C385 1033 375 1032 384 1005 C407 940 456 810 495 731 C433 693 375 648 352 616 C330 588 348 561 378 539 C413 513 458 508 514 515 Z M641 512 L611 562 Q607 572 617 569 L686 542 L749 577 C775 591 810 584 827 557 L851 514 C866 486 857 459 836 447 L736 393 C710 380 677 387 660 413 L636 456 Q620 486 641 512 Z"/>
+</svg>

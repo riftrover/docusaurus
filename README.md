@@ -1,41 +1,31 @@
-# Website
+# RiftRover ドキュメント
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[Docusaurus](https://docusaurus.io/) で構築したドキュメントサイトです。Bun 1.4.4 以上で実行できます。
 
-### Installation
+## ローカル開発
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+```sh
+bun install --frozen-lockfile
+bun run start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 検証とビルド
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```sh
+bun run typecheck
+bun run build
+bun run serve
 ```
 
-Not using SSH:
+静的ファイルは `build` に出力されます。
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## GitHub Pages へのデプロイ
+
+PowerShell で SSH を使用する場合は、次のコマンドを実行します。
+
+```powershell
+$env:USE_SSH = "true"
+bun run deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+HTTPS を使用する場合は、`USE_SSH` を設定せず、`GIT_USER` に自分の GitHub ユーザー名を設定して `bun run deploy` を実行します。

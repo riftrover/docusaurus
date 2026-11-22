@@ -1,6 +1,6 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import type { Config } from "@docusaurus/types";
+import { themes as prismThemes } from "prism-react-renderer";
 
 const config: Config = {
   title: "RiftRover",
@@ -10,15 +10,20 @@ const config: Config = {
   url: "https://riftrover.github.io/",
   baseUrl: "/docusaurus/",
 
-  organizationName: "riftrover", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "riftrover",
+  projectName: "docusaurus",
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
 
   i18n: {
     defaultLocale: "ja",
     locales: ["ja"],
+  },
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "throw",
+    },
   },
 
   presets: [
@@ -27,7 +32,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/riftrover/docusaurus/edit/main/",
         },
         blog: {
           showReadingTime: false,
@@ -47,11 +51,11 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "./static/img/logo.svg",
+    image: "img/logo.svg",
     navbar: {
       title: "RiftRover",
       logo: {
-        alt: "Logo",
+        alt: "RiftRover",
         src: "img/logo.svg",
       },
       items: [
